@@ -63,6 +63,7 @@ Questions:
 ![Screen Shot 2023-07-19 at 10 24 10 PM](https://github.com/kshirazi5/nosql-challenge/assets/116853144/d4cc26b5-0022-4252-bce9-d0c2194addd9)
 
 4. How many establishments in each Local Authority area have a hygiene score of 0?
+
 ![Screen Shot 2023-07-19 at 10 24 46 PM](https://github.com/kshirazi5/nosql-challenge/assets/116853144/4280fdad-7dd0-4d91-aa54-ca8c522e3f95)
 
 
