@@ -50,3 +50,16 @@ RatingValue refers to the overall rating decided by the Food Authority and range
 Note: This field also includes non-numeric values such as 'Pass', where 'Pass' means that the establishment passed their inspection but isn't given a number rating. We will coerce non-numeric values to nulls during the database setup before converting ratings to integers.
 
 The scores for Hygiene, Structural, and ConfidenceInManagement work in reverse. This means, the higher the value, the worse the establishment is in these areas.
+
+Questions:
+
+1. Which establishments have a hygiene score equal to 20?
+
+2. Which establishments in London have a RatingValue greater than or equal to 4?
+
+3. What are the top 5 establishments with a RatingValue rating value of '5', sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
+
+4. How many establishments in each Local Authority area have a hygiene score of 0?
+
+
+
