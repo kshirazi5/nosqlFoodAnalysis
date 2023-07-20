@@ -54,12 +54,17 @@ The scores for Hygiene, Structural, and ConfidenceInManagement work in reverse. 
 Questions:
 
 1. Which establishments have a hygiene score equal to 20?
+![Screen Shot 2023-07-19 at 10 20 54 PM](https://github.com/kshirazi5/nosql-challenge/assets/116853144/a3c7f43c-a0c5-4e79-9106-a601556aec82)
 
 2. Which establishments in London have a RatingValue greater than or equal to 4?
+![Screen Shot 2023-07-19 at 10 23 05 PM](https://github.com/kshirazi5/nosql-challenge/assets/116853144/5f0d664d-4db3-4230-b5e4-30321dab0575)
 
 3. What are the top 5 establishments with a RatingValue rating value of '5', sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
+![Screen Shot 2023-07-19 at 10 24 10 PM](https://github.com/kshirazi5/nosql-challenge/assets/116853144/d4cc26b5-0022-4252-bce9-d0c2194addd9)
 
 4. How many establishments in each Local Authority area have a hygiene score of 0?
+![Screen Shot 2023-07-19 at 10 24 46 PM](https://github.com/kshirazi5/nosql-challenge/assets/116853144/4280fdad-7dd0-4d91-aa54-ca8c522e3f95)
+
 
 
 
